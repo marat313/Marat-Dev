@@ -2,8 +2,4 @@
 
 ### Меня зовут Марат и я фронт энд разработчик!
 
-**Мой технологический стек:**
-* HTML
-* CSS
-* JavaScript
-* NodeJs
+### :hammer_and_wrench: Languages and Tools :
