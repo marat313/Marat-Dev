@@ -13,7 +13,8 @@
 
 <ul dir="auto">
   <li>
-  <p dir="auto">👨‍💻 All of my projects are available at <a href=" https://marat313.github.io/marat-cv/" rel="nofollow"> https://marat313.github.io/marat-cv/</a></p>
+  <p dir="auto">👨‍💻 All of my projects are available at <a href=" https://marat313.github.io/marat-cv/" rel="nofollow">
+    https://marat313.github.io/marat-cv/</a></p>
   </li>
 <li>
 <p dir="auto">📫 How to reach me <strong><a href="mailto:marat.developer13@gmail.com">marat.developer13@gmail.com</a></strong></p>
