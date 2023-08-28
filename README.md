@@ -11,17 +11,6 @@
 
 ### Experienced Front-End developer with 1 years of experience:
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-  ---
-
-### Connect with me :
 <ul dir="auto">
   <li>
   <p dir="auto">👨‍💻 All of my projects are available at <a href="https://kubat-portfolio.vercel.app/" rel="nofollow">https://kubat-portfolio.vercel.app/</a></p>
@@ -36,6 +25,17 @@
 <p dir="auto">📄 Know about my experiences <a href="https://www.linkedin.com/in/kubatabdrakhmanov/" rel="nofollow">https://www.linkedin.com/in/kubatabdrakhmanov/</a></p>
 </li>
 </ul>
+
+  ---
+
+### Connect with me :
+
+<p align="left" dir="auto">
+<a href="https://t.me/KubatAbdrakhmanov" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/9419ab6df696e541d3e5acaeb97e656b14d8e295e0276b67d8442e3ce5a1eed7/68747470733a2f2f667265656c6f676f706e672e636f6d2f696d616765732f616c6c5f696d672f3136383330343439393674656c656772616d2d6c6f676f2d706e672e706e67" alt="kubatabdrakhmanov" height="32" width="32" data-canonical-src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/kubatabdrakhmanov" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kubatabdrakhmanov" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/kubatabdrakhmanov" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kubatabdrakhmanov" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.leetcode.com/kubatabdrakhmanov" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kubatabdrakhmanov" height="30" width="40" style="max-width: 100%;"></a>
+</p>
 
 ### :hammer_and_wrench: Languages:
 
