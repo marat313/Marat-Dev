@@ -21,8 +21,10 @@
 
   ---
 
-### : Connect with me :
-
+### Connect with me :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/telegramm
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
