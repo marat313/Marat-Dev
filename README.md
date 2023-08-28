@@ -22,9 +22,20 @@
   ---
 
 ### Connect with me :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/telegramm
-</div>
+<ul dir="auto">
+  <li>
+  <p dir="auto">👨‍💻 All of my projects are available at <a href="https://kubat-portfolio.vercel.app/" rel="nofollow">https://kubat-portfolio.vercel.app/</a></p>
+  </li>
+<li>
+<p dir="auto">📝 I regularly write articles on <a href="https://www.instagram.com/kubatabdrakhmanov" rel="nofollow">https://www.instagram.com/kubatabdrakhmanov</a></p>
+</li>
+<li>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:kubatabdrakhmanov@gmail.com">kubatabdrakhmanov@gmail.com</a></strong></p>
+</li>
+<li>
+<p dir="auto">📄 Know about my experiences <a href="https://www.linkedin.com/in/kubatabdrakhmanov/" rel="nofollow">https://www.linkedin.com/in/kubatabdrakhmanov/</a></p>
+</li>
+</ul>
 
 ### :hammer_and_wrench: Languages and Tools :
 
