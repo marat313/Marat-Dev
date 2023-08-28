@@ -13,16 +13,13 @@
 
 <ul dir="auto">
   <li>
-  <p dir="auto">👨‍💻 All of my projects are available at <a href="https://kubat-portfolio.vercel.app/" rel="nofollow">https://kubat-portfolio.vercel.app/</a></p>
+  <p dir="auto">👨‍💻 All of my projects are available at <a href=" https://marat313.github.io/marat-cv/" rel="nofollow"> https://marat313.github.io/marat-cv/</a></p>
   </li>
 <li>
-<p dir="auto">📝 I regularly write articles on <a href="https://www.instagram.com/kubatabdrakhmanov" rel="nofollow">https://www.instagram.com/kubatabdrakhmanov</a></p>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:marat.developer13@gmail.com">marat.developer13@gmail.com</a></strong></p>
 </li>
 <li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:kubatabdrakhmanov@gmail.com">kubatabdrakhmanov@gmail.com</a></strong></p>
-</li>
-<li>
-<p dir="auto">📄 Know about my experiences <a href="https://www.linkedin.com/in/kubatabdrakhmanov/" rel="nofollow">https://www.linkedin.com/in/kubatabdrakhmanov/</a></p>
+<p dir="auto">📄 Know about my experiences <a href="https://www.linkedin.com/in/marat-ergashov-326908270/" rel="nofollow">https://www.linkedin.com/in/marat-ergashov/</a></p>
 </li>
 </ul>
 
