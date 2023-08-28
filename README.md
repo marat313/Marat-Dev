@@ -1,4 +1,7 @@
-# Здраствуйте.
+<h1>
+  hi, im Marat
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ### Меня зовут Марат и я фронт энд разработчик!
 
