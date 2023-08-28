@@ -7,7 +7,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### Experienced Front-End developer with 1 years of experience
+---
+
+### Experienced Front-End developer with 1 years of experience:
 
 ### :hammer_and_wrench: Languages and Tools :
 
